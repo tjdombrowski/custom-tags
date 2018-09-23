@@ -14,4 +14,24 @@
         <!-- body content is used to pass value to your tag code -->
         <body-content>empty</body-content>
     </tag>
+    <tag>
+        <name>MorningGreeting</name>
+        <tag-class>edu.matc.customtags.MorningGreetingTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>EveningGreeting</name>
+        <tag-class>edu.matc.customtags.EveningGreetingTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>HolidayGreetingTag</name>
+        <tag-class>edu.matc.customtags.HolidayGreetingTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>HalloweenGreetingTag</name>
+        <tag-class>edu.matc.customtags.HalloweenGreetingTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
 </taglib>
