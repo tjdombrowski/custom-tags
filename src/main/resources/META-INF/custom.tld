@@ -25,12 +25,12 @@
         <body-content>empty</body-content>
     </tag>
     <tag>
-        <name>HolidayGreetingTag</name>
+        <name>HolidayGreeting</name>
         <tag-class>edu.matc.customtags.HolidayGreetingTag</tag-class>
         <body-content>empty</body-content>
     </tag>
     <tag>
-        <name>HalloweenGreetingTag</name>
+        <name>HalloweenGreeting</name>
         <tag-class>edu.matc.customtags.HalloweenGreetingTag</tag-class>
         <body-content>empty</body-content>
     </tag>

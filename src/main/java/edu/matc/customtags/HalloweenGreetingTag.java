@@ -14,4 +14,4 @@ public class HalloweenGreetingTag extends SimpleTagSupport {
         out.println("Yay! It's Halloween!");
     }
 }
-}
+

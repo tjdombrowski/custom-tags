@@ -1,1 +1,5 @@
+edu/matc/customtags/HalloweenGreetingTag.class
+edu/matc/customtags/HolidayGreetingTag.class
 edu/matc/customtags/HelloWorldTag.class
+edu/matc/customtags/MorningGreetingTag.class
+edu/matc/customtags/EveningGreetingTag.class

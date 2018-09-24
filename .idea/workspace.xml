@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed0ebb58-2194-4f43-a5e6-126dbe4f15ff" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/edu/matc/customtags/HelloWorldTag.class" afterPath="$PROJECT_DIR$/target/classes/edu/matc/customtags/HelloWorldTag.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/customtags.jar" afterPath="$PROJECT_DIR$/target/customtags.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/edu/matc/customtags/HalloweenGreetingTag.java" afterPath="$PROJECT_DIR$/src/main/java/edu/matc/customtags/HalloweenGreetingTag.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/custom.tld" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/custom.tld" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/custom.tld" afterPath="$PROJECT_DIR$/target/classes/META-INF/custom.tld" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,7 +26,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
+            <state relative-caret-position="1656">
               <caret line="92" column="29" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
               <folding />
             </state>
@@ -29,7 +36,7 @@
       <file leaf-file-name="HelloWorldTag.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/HelloWorldTag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="108">
               <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -41,7 +48,7 @@
       <file leaf-file-name="MorningGreetingTag.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/MorningGreetingTag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="126">
               <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,7 +60,7 @@
       <file leaf-file-name="EveningGreetingTag.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/EveningGreetingTag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="234">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -65,8 +72,8 @@
       <file leaf-file-name="HolidayGreetingTag.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/HolidayGreetingTag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="108">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,8 +84,8 @@
       <file leaf-file-name="HalloweenGreetingTag.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/HalloweenGreetingTag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +96,8 @@
       <file leaf-file-name="custom.tld" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/custom.tld">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            <state relative-caret-position="378">
+              <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -194,10 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,12 +239,37 @@
               <item name="customtags" type="b2602c69:ProjectViewProjectNode" />
               <item name="customtags" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customtags" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customtags" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customtags" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customtags" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customtags" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customtags" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -367,15 +396,16 @@
       <workItem from="1537675618896" duration="477000" />
       <workItem from="1537676229019" duration="688000" />
       <workItem from="1537719464307" duration="578000" />
-      <workItem from="1537726579589" duration="497000" />
+      <workItem from="1537726579589" duration="735000" />
+      <workItem from="1537828186299" duration="75000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10051000" />
+    <option name="totallyTimeSpent" value="10364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="-11" width="1865" height="1092" extended-state="6" />
+    <frame x="57" y="-4" width="1863" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -384,11 +414,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15888353" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33026585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3384458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33026585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11164788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -821,19 +851,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/HalloweenGreetingTag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
+        <state relative-caret-position="1656">
           <caret line="92" column="29" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
           <folding />
         </state>
@@ -841,7 +861,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/HelloWorldTag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="108">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -851,7 +871,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/MorningGreetingTag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="126">
           <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -861,7 +881,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/EveningGreetingTag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="234">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -871,8 +891,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/HolidayGreetingTag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="108">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/matc/customtags/HalloweenGreetingTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -881,8 +911,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/custom.tld">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="378">
+          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
           <folding />
         </state>
       </provider>
