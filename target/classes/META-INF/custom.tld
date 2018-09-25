@@ -13,25 +13,45 @@
         <tag-class>edu.matc.customtags.HelloWorldTag</tag-class>
         <!-- body content is used to pass value to your tag code -->
         <body-content>empty</body-content>
+        <attribute>
+            <name>jspUsage</name>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
     </tag>
     <tag>
         <name>MorningGreeting</name>
         <tag-class>edu.matc.customtags.MorningGreetingTag</tag-class>
         <body-content>empty</body-content>
+        <attribute>
+            <name>jspUsage</name>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
     </tag>
     <tag>
         <name>EveningGreeting</name>
         <tag-class>edu.matc.customtags.EveningGreetingTag</tag-class>
         <body-content>empty</body-content>
+        <attribute>
+            <name>jspUsage</name>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
     </tag>
     <tag>
         <name>HolidayGreeting</name>
         <tag-class>edu.matc.customtags.HolidayGreetingTag</tag-class>
         <body-content>empty</body-content>
+        <attribute>
+            <name>jspUsage</name>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
     </tag>
     <tag>
         <name>HalloweenGreeting</name>
         <tag-class>edu.matc.customtags.HalloweenGreetingTag</tag-class>
         <body-content>empty</body-content>
+        <attribute>
+            <name>jspUsage</name>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
     </tag>
 </taglib>

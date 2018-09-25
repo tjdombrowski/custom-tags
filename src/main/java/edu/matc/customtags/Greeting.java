@@ -2,10 +2,10 @@ package edu.matc.customtags;
 
 import javax.servlet.jsp.JspException;
 import javax.servlet.jsp.JspWriter;
-import javax.servlet.jsp.tagext.*;
+import javax.servlet.jsp.tagext.SimpleTagSupport;
 import java.io.IOException;
 
-public class HolidayGreetingTag extends SimpleTagSupport{
+public class Greeting extends SimpleTagSupport{
     private String messageType;
 
     public void setMessageType(String messageType) {
@@ -20,11 +20,11 @@ public class HolidayGreetingTag extends SimpleTagSupport{
         JspWriter out = getJspContext().getOut();
 
         switch (messageType) {
-            case "ChristmasGreeting":
-                greeting = "Merry Christmas!";
+            case "EveningGreeting":
+                greeting = "Good evening!";
                 break;
-            case "HalloweenGreeting":
-                greeting = "Happy Halloween!!!";
+            case "MorningGreeting":
+                greeting = "Good morning!";
                 break;
             default:
                 greeting = "";
